@@ -9,6 +9,8 @@ The biggest difference is that with git, Every repo is self contained, If you ha
 That said if you are use to an svn enviroment, you will have to get use to the fact that git commit DOES NOT send it to the remote server, and if you forget to git push, your code is only on your desktop.
 
 Here are a few quick commands that will end up being 90% of what you use
+
+
 Command | Description
 ----|----
 git clone [Repo] | Initially downloads a given repo
