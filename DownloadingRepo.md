@@ -12,5 +12,5 @@ There are 2 methods that github allows, ssh and https.
 
 ### Advantages of https
 * Does not require you to have keys set up and tied to your account
-
+* You can access muliple Github Accounts with the same user
 
