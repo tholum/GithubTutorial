@@ -14,7 +14,7 @@ Here are a few quick commands that will end up being 90% of what you use
 Command | Description
 ----|----
 git clone [Repo] | Initially downloads a given repo
-git commit -m "txt" | Commits changes to your local repo
+git commit -a -m "txt" | Commits changes to your local repo
 git pull | Pulls the changes from the default remote ( Usually github )
 git push | Pulls changes from the default remote
 git add --all | Adds all unversioned files to git
