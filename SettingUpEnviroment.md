@@ -21,4 +21,8 @@ Now set your global config to who you are
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 ```
+Last but not least, Get rid of nano as your default editor ( personal preference )
 
+```
+git config --global core.editor "vim"
+```
